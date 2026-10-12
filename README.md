@@ -15,7 +15,9 @@ ___
 </p>
 
 ___
-Email para contato na bio
+Email para contato:
+<a href="mailto:githubvitor2@gmail.com" target="_blank">Enviar E-mail</a>
+
 
 <Br>
 
