@@ -3,7 +3,7 @@
 
 Olá, sou o Vitor Emanoel, natural de São Paulo, atualmente estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
 
-<Br><Br>
+<Br>
 ## Ferramentas :
 
 <p align="left">
@@ -13,5 +13,5 @@ Olá, sou o Vitor Emanoel, natural de São Paulo, atualmente estou cursando Dese
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
-<BR><BR>
+<BR>
 Contato via e-mail no link acima!
