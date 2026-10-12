@@ -3,7 +3,7 @@
 olá sou o Vitor Emanoel natural de São Paulo, atualmente estou cursando Desenvolvimento de Sistemas na Etec Sebrae 
 
 
-## Ferramentas
+## Ferramentas :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" /> &nbsp;&nbsp;&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" /> &nbsp;&nbsp;&nbsp;  
