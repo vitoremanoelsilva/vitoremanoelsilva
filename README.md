@@ -11,4 +11,6 @@ olá sou o Vitor Emanoel natural de São Paulo, atualmente estou cursando Desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />   
 </div>
 
+br><br><br>
+
 Contato via e-mail no link acima !
