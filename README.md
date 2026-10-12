@@ -1,9 +1,11 @@
 # Vitor Emanoel 💻
 
 ---
-Olá, sou o Vitor Emanoel, natural de São Paulo, atualmente estou cursando Desenvolvimento de Sistemas na Etec Sebrae[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span).
+
+Olá, sou o Vitor Emanoel, natural de São Paulo, atualmente estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
 
 ---
+
 ## Ferramentas :
 
 <p align="left">
@@ -14,4 +16,5 @@ Olá, sou o Vitor Emanoel, natural de São Paulo, atualmente estou cursando Dese
 </p>
 
 ---
-Contato via e-mail no link acima[span_6](start_span)[span_6](end_span)!
+
+Contato via e-mail no link acima!
