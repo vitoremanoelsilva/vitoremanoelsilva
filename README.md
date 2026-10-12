@@ -16,7 +16,7 @@ ___
 
 ___
 <a href="mailto:githubvitor2@gmail.com" target="_blank">Enviar E-mail</a>
-Contato via e-mail no link acima!
+Contato via e-mail no link anterior!
 
 <Br>
 
