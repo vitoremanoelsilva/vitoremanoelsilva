@@ -14,7 +14,6 @@ ___
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 
 ___
-Email para contato na bio
 
 <Br>
 
