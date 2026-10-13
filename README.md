@@ -17,5 +17,6 @@ ___
 <Br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ativo%20no%20Código%20💻&fontSize=60&animation=fadeIn&fontAlignY=50&desc=%F0%9F%9A%80%20%F0%9F%92%BB%20%F0%9F%9B%A0%EF%B8%A0%20" alt="Status Animado com Emojis" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" alt="Waving Hand GIF" />
+  <p><strong>Obrigado pela visita! Até à próxima! 👋</strong></p>
 </div>
