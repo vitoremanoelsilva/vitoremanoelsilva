@@ -17,6 +17,6 @@ ___
 <Br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" alt="Waving Hand GIF" />
-  <p><strong>Obrigado pela visita! Até à próxima! 👋</strong></p>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px" alt="Waving Hand GIF" />
+  <p><strong>Obrigado pela visita! Até próxima! 👋</strong></p>
 </div>
