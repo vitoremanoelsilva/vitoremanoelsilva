@@ -17,5 +17,5 @@ ___
 <Br>
 
 <div align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d/512.gif" alt="" width="120" height="120">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ativo%20no%20Código%20💻&fontSize=60&animation=fadeIn&fontAlignY=50&desc=%F0%9F%9A%80%20%F0%9F%92%BB%20%F0%9F%9B%A0%EF%B8%A0%20" alt="Status Animado com Emojis" />
 </div>
