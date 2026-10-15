@@ -2,7 +2,7 @@ ___
 # Vitor Emanoel 🧑🏻‍💻 
 
 
-Olá, sou o Vitor Emanoel, natural de São Paulo. atualmente, estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
+Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. atualmente, estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
 
 ___
 ## Ferramentas :
