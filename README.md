@@ -32,7 +32,7 @@ ___
     <img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/users/1536105480168939544" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" alt="Discord" />
   </a>
 </div>
