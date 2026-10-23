@@ -40,9 +40,9 @@ ___
 
 ___
 
-##  GitHub Stats
+##  Estáticas 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanoelsilva&layout=compact&theme=dark&hide_border=true&title_color=38BDF8" height="160" alt="Linguagens mais usadas" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=vitoremanoelsilva&show_icons=true&theme=dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8" height="160" alt="Estatísticas do GitHub" />
