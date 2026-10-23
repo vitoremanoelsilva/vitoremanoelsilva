@@ -41,12 +41,4 @@ ___
 ---
 
 
-<div align="center">
-  <p>🚀 <b>Em constante evolução na Etec Sebrae | Apaixonado por tecnologia e código</b></p>
-  <p><i>"A melhor maneira de prever o futuro é inventá-lo."</i></p>
-  <br>
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Voltar_ao_topo-⬆️-007ACC?style=for-the-badge" alt="Voltar ao topo" />
-  </a>
-</div>
 
