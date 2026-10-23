@@ -40,5 +40,9 @@ ___
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=true&vcenter=true&width=550&lines=system.init();+Building+future+projects...;Construindo+ideias+em+HTML%2C+CSS%2C+JS+%26+Python;Conecte-se+comigo+abaixo!+%F0%9F%9A%80" alt="Terminal Typing" />
+</div>
+
 
 
