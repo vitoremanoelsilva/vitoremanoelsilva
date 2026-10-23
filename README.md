@@ -39,8 +39,4 @@ ___
 
 ___
 
-<p align="center">
-  <b>Sempre focado em aprender novas tecnologias e construir projetos incríveis.</b><br>
-  <i>Sinta-se à vontade para mandar uma mensagem ou dar uma olhada nos meus repositórios!</i>
-</p>
 
