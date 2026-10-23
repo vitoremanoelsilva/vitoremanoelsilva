@@ -13,7 +13,7 @@ ___
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
  
 ___
- ## 📬 Connect with me
+ ## Connect with me
 
 <div align="left">
   <a href="mailto:githubvitor2@gmail.com" target="_blank">
