@@ -40,8 +40,13 @@ ___
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Transformando+ideias+em+c%C3%B3digo...;Sempre+focado+em+aprender+e+evoluir!;Obrigado+pela+visita!+🚀" alt="Typing SVG" />
-</div>
 
+<div align="center">
+  <p>🚀 <b>Em constante evolução na Etec Sebrae | Apaixonado por tecnologia e código</b></p>
+  <p><i>"A melhor maneira de prever o futuro é inventá-lo."</i></p>
+  <br>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Voltar_ao_topo-⬆️-007ACC?style=for-the-badge" alt="Voltar ao topo" />
+  </a>
+</div>
 
