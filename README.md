@@ -37,11 +37,10 @@ ___
   </a>
 </div>
 
-
 ___
-<Br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px" alt="Waving Hand GIF" />
-  <p><strong>Obrigado pela visita! Até próxima! </strong></p>
-</div>
+<p align="center">
+  <b>Sempre focado em aprender novas tecnologias e construir projetos incríveis.</b><br>
+  <i>Sinta-se à vontade para mandar uma mensagem ou dar uma olhada nos meus repositórios!</i>
+</p>
+
