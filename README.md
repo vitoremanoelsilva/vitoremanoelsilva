@@ -19,7 +19,7 @@ ___
   <a href="mailto:githubvitor2@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vitoremanoelsilva" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" />
   </a>
