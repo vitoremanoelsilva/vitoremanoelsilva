@@ -7,9 +7,6 @@ Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. atualmente, esto
 ___
 ## Ferramentas 
 
-
-## Ferramentas :
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="35" alt="HTML5" /> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="35" alt="CSS3" /> &nbsp; 
