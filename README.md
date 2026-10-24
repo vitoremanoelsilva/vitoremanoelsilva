@@ -1,10 +1,7 @@
 
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=180&section=header&text=Vitor%20Emanoel&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
-</div>
 
 ___
-
+# Vitor Emanoel 
 
 Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. atualmente, estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
 
