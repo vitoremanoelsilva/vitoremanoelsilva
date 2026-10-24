@@ -1,7 +1,7 @@
 
 
 ___
-# Vitor Emanoel 
+# Vitor Emanoel 🧑🏻‍💻
 
 Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. atualmente, estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
 
