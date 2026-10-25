@@ -22,19 +22,23 @@ ___
 
 <div align="left">
   <a href="mailto:githubvitor2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://github.com/vitoremanoelsilva" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="45" height="45" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/vitor_sllva" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://discord.com/users/1536105480168939544" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="45" alt="Discord" />
   </a>
 </div>
 
