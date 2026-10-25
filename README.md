@@ -18,7 +18,7 @@ ___
 
 ___
 
-## 📬 Connect with me
+## Connect with me
 
 <div align="left">
   <a href="mailto:githubvitor2@gmail.com" target="_blank">
