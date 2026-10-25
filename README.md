@@ -1,3 +1,4 @@
+___
 # Vitor Emanoel 🧑🏻‍💻
 
 Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. atualmente, estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
@@ -61,3 +62,4 @@ ___
 
 ___
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qwcpuyv26hgdxdtqhd5k6y4gcy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
