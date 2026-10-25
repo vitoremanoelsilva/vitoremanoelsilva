@@ -18,27 +18,23 @@ ___
 
 ___
 
- ## Connect with me
+## 📬 Connect with me
 
 <div align="left">
   <a href="mailto:githubvitor2@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vitoremanoelsilva" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/vitor_sllva" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1536105480168939544" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
