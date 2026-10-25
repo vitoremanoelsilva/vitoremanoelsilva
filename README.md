@@ -62,4 +62,8 @@ ___
 
 ___
 
-/*[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qwcpuyv26hgdxdtqhd5k6y4gcy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)*\
+## 🍕 Distribuição de Linguagens
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanoelsilva&layout=pie&theme=dark&hide_border=true&title_color=38BDF8" alt="Linguagens em Gráfico de Pizza" />
+</div>
