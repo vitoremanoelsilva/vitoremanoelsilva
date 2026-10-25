@@ -45,6 +45,15 @@ ___
 
 ___
 
+##  Sequência de Código
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoremanoelsilva&theme=dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+
+___
+
 ##  Estatísticas
 
 <div align="left">
