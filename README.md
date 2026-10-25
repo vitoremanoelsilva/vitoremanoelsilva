@@ -62,8 +62,3 @@ ___
 
 ___
 
-## 🍕 Distribuição de Linguagens
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanoelsilva&layout=pie&theme=dark&hide_border=true&title_color=38BDF8" alt="Linguagens em Gráfico de Pizza" />
-</div>
