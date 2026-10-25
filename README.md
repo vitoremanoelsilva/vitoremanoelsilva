@@ -55,3 +55,21 @@ ___
 
 
 ___
+
+<div align="left">
+  <a href="mailto:githubvitor2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Gmail" />
+  </a>
+  <a href="https://github.com/vitoremanoelsilva" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/vitor_sllva" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/1536105480168939544" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0F172A?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord" />
+  </a>
+</div>
