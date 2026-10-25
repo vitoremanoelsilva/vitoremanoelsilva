@@ -9,33 +9,36 @@ ___
 ## Ferramentas 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="35" alt="HTML5" /> &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="35" alt="CSS3" /> &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="35" alt="JavaScript" /> &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="35" alt="Python" /> &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" width="35" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
 </div>
 
 ___
-
 
 ## 📬 Connect with me
 
 <div align="left">
   <a href="mailto:githubvitor2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vitoremanoelsilva" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/vitor_sllva" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1536105480168939544" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" alt="Discord" />
   </a>
 </div>
 
