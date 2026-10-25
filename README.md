@@ -62,10 +62,5 @@ ___
   <img src="https://github-readme-stats.vercel.app/api?username=vitoremanoelsilva&show_icons=true&theme=dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&cache_seconds=1800" height="150" alt="Estatísticas do GitHub" />
 </div>
 
-
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=false&vcenter=true&width=550&lines=system.init();+Building+future+projects...;Construindo+ideias+em+HTML%2C+CSS%2C+JS%2C+Python+%26+C%2B%2B;Conecte-se+comigo!+%F0%9F%9A%80" alt="Terminal Typing" />
-
 ___
 
