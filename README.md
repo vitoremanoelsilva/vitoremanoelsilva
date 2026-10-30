@@ -40,15 +40,4 @@ ___
 </p>
 ___
 
-## Estatísticas
-
-<p align="left">
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanoelsilva&layout=compact&theme=dark&hide_border=true&title_color=38BDF8&cache_seconds=1800)](https://github.com/vitoremanoelsilva)
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitoremanoelsilva&show_icons=true&theme=dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&cache_seconds=1800)](https://github.com/vitoremanoelsilva)
-
-<br>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=false&vcenter=true&width=400&lines=system.init();+Building+future+projects...;Construindo+ideias+em+HTML%2C+CSS%2C+JS%2C+Python+%26+C%2B%2B;Conecte-se+comigo!+%F0%9F%9A%80" alt="Terminal Typing" />
-</p>
+ 
