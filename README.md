@@ -2,7 +2,9 @@
 
 Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistemas na Etec Sebrae.
 
-## 🛠️ Ferramentas 
+___
+
+##  Ferramentas 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" /> &nbsp; 
@@ -12,6 +14,7 @@ Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. Atualmente, esto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
 </p>
 
+___
 ##  Connect with me
 
 <p align="left">
@@ -35,14 +38,14 @@ Olá, sou o Vitor Emanoel Pereira Silva, natural de São Paulo. Atualmente, esto
     <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" alt="Discord" />
   </a>
 </p>
+___
 
 ## Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanoelsilva&layout=compact&theme=dark&hide_border=true&title_color=38BDF8&cache_seconds=1800" width="100%" alt="Linguagens mais usadas" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoremanoelsilva&show_icons=true&theme=dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&cache_seconds=1800" width="100%" alt="Estatísticas do GitHub" />
-</p>
+  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanoelsilva&layout=compact&theme=dark&hide_border=true&title_color=38BDF8&cache_seconds=1800)](https://github.com/vitoremanoelsilva)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitoremanoelsilva&show_icons=true&theme=dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&cache_seconds=1800)](https://github.com/vitoremanoelsilva)
 
 <br>
 
