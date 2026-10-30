@@ -38,6 +38,6 @@ ___
     <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" alt="Discord" />
   </a>
 </p>
-___
+
 
  
