@@ -14,7 +14,6 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" /> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="40" alt="Arduino" />
 </p>
-___
 
 ##  Connect with me
 
